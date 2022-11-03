@@ -1,5 +1,5 @@
 <div>
-<img src="https://user-images.githubusercontent.com/51475411/199662277-f99abb61-ebce-47ec-8249-0c6f24654a8c.jpg" alt="lauth" width="500" align="right"/>
+<img src="https://user-images.githubusercontent.com/51475411/199662277-f99abb61-ebce-47ec-8249-0c6f24654a8c.jpg" alt="lauth" width="450" align="right"/>
 </div>
 
 ### Hello world 😃
